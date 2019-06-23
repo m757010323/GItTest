@@ -5,4 +5,7 @@ public class GitTestdemo {
         System.out.println("HelloWorld");
         System.out.println("HelloGit");
     }
+    public void test1(){
+        System.out.println("helloWorld");
+    }
 }
